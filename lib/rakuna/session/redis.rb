@@ -8,6 +8,7 @@ module Rakuna
     # Redis-backed sessions
     module Redis
       include Contracts
+      include Rakuna::Data::Redis
 
       # A session backed by redis.
       class Session
