@@ -10,7 +10,7 @@ group :development do
   gem 'jeweler', '~> 2.0'
   gem 'reek', '~> 3.7'
   gem 'roodi', '~> 5.0'
-  gem 'rspec', '~> 3.3'
+  gem 'rspec', '~> 3.4'
   gem 'rubocop', '~> 0.33'
   gem 'simplecov', '~> 0.10'
   gem 'yard', '~> 0.8'
